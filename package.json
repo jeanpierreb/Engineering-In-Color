@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/jeanpierreb/engineering-in-color#readme",
   "devDependencies": {
-    "webpack": "^4.34.0",
-    "webpack-cli": "^3.3.4"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "fullpage.js": "^3.0.5",
